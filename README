@@ -1,7 +1,7 @@
-bitcoin-seeder
+litecoin-pos-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+litecoin-pos-seeder is a crawler for the litecoin-pos network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
